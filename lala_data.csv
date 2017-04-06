@@ -1,0 +1,444 @@
+,time,rank,artist,song,sales
+0,02/26/2017 22:11,92.0,Ryan Gosling & Emma Stone,City of Stars,2674.0
+1,02/26/2017 22:11,99.0,John Legend,Love Me Now,2552.0
+2,02/26/2017 22:11,100.0,Emma Stone,Audition (The Fools Who Dream),1320.0
+3,02/26/2017 22:16,92.0,Ryan Gosling & Emma Stone,City of Stars,2673.0
+4,02/26/2017 22:16,99.0,John Legend,Love Me Now,2551.0
+5,02/26/2017 22:16,100.0,Emma Stone,Audition (The Fools Who Dream),1319.0
+6,02/26/2017 22:48,92.0,Ryan Gosling & Emma Stone,City of Stars,2666.0
+7,02/26/2017 22:48,99.0,John Legend,Love Me Now,2544.0
+8,02/26/2017 22:48,100.0,Emma Stone,Audition (The Fools Who Dream),1316.0
+9,02/26/2017 23:18,47.0,Ryan Gosling & Emma Stone,City of Stars,2581.0
+10,02/26/2017 23:18,78.0,Emma Stone,Audition (The Fools Who Dream),1615.0
+11,02/26/2017 23:18,95.0,John Legend,Love Me Now,1362.0
+12,02/26/2017 23:48,47.0,Ryan Gosling & Emma Stone,City of Stars,2574.0
+13,02/26/2017 23:48,78.0,Emma Stone,Audition (The Fools Who Dream),1611.0
+14,02/26/2017 23:48,95.0,John Legend,Love Me Now,1358.0
+15,02/27/2017 00:18,47.0,Ryan Gosling & Emma Stone,City of Stars,2573.0
+16,02/27/2017 00:18,78.0,Emma Stone,Audition (The Fools Who Dream),1611.0
+17,02/27/2017 00:18,96.0,John Legend,Love Me Now,1358.0
+18,02/27/2017 00:48,47.0,Ryan Gosling & Emma Stone,City of Stars,2567.0
+19,02/27/2017 00:48,78.0,Emma Stone,Audition (The Fools Who Dream),1607.0
+20,02/27/2017 00:48,96.0,John Legend,Love Me Now,1354.0
+21,02/27/2017 01:18,47.0,Ryan Gosling & Emma Stone,City of Stars,2561.0
+22,02/27/2017 01:18,78.0,Emma Stone,Audition (The Fools Who Dream),1603.0
+23,02/27/2017 01:18,96.0,John Legend,Love Me Now,1351.0
+24,02/27/2017 01:48,47.0,Ryan Gosling & Emma Stone,City of Stars,2555.0
+25,02/27/2017 01:48,78.0,Emma Stone,Audition (The Fools Who Dream),1600.0
+26,02/27/2017 01:48,96.0,John Legend,Love Me Now,1348.0
+27,02/27/2017 02:18,44.0,Ryan Gosling & Emma Stone,City of Stars,2726.0
+28,02/27/2017 02:18,75.0,Emma Stone,Audition (The Fools Who Dream),1712.0
+29,02/27/2017 02:18,96.0,John Legend,Love Me Now,1392.0
+30,02/27/2017 02:48,44.0,Ryan Gosling & Emma Stone,City of Stars,2721.0
+31,02/27/2017 02:48,75.0,Emma Stone,Audition (The Fools Who Dream),1709.0
+32,02/27/2017 02:48,96.0,John Legend,Love Me Now,1389.0
+33,02/27/2017 03:18,44.0,Ryan Gosling & Emma Stone,City of Stars,2590.0
+34,02/27/2017 03:18,75.0,Emma Stone,Audition (The Fools Who Dream),1627.0
+35,02/27/2017 03:18,96.0,John Legend,Love Me Now,1322.0
+36,02/27/2017 03:48,44.0,Ryan Gosling & Emma Stone,City of Stars,2709.0
+37,02/27/2017 03:48,75.0,Emma Stone,Audition (The Fools Who Dream),1702.0
+38,02/27/2017 03:48,96.0,John Legend,Love Me Now,1383.0
+39,02/27/2017 04:18,44.0,Ryan Gosling & Emma Stone,City of Stars,2704.0
+40,02/27/2017 04:18,75.0,Emma Stone,Audition (The Fools Who Dream),1698.0
+41,02/27/2017 04:18,96.0,John Legend,Love Me Now,1381.0
+42,02/27/2017 04:48,42.0,Ryan Gosling & Emma Stone,City of Stars,2630.0
+43,02/27/2017 04:48,70.0,Emma Stone,Audition (The Fools Who Dream),1684.0
+44,02/27/2017 04:48,96.0,John Legend,Love Me Now,1314.0
+45,02/27/2017 05:18,42.0,Ryan Gosling & Emma Stone,City of Stars,2625.0
+46,02/27/2017 05:18,70.0,Emma Stone,Audition (The Fools Who Dream),1681.0
+47,02/27/2017 05:18,96.0,John Legend,Love Me Now,1311.0
+48,02/27/2017 05:48,42.0,Ryan Gosling & Emma Stone,City of Stars,2620.0
+49,02/27/2017 05:48,70.0,Emma Stone,Audition (The Fools Who Dream),1678.0
+50,02/27/2017 05:48,96.0,John Legend,Love Me Now,1309.0
+51,02/27/2017 06:18,42.0,Ryan Gosling & Emma Stone,City of Stars,2704.0
+52,02/27/2017 06:18,70.0,Emma Stone,Audition (The Fools Who Dream),1732.0
+53,02/27/2017 06:18,96.0,John Legend,Love Me Now,1351.0
+54,02/27/2017 06:48,42.0,Ryan Gosling & Emma Stone,City of Stars,2700.0
+55,02/27/2017 06:48,70.0,Emma Stone,Audition (The Fools Who Dream),1729.0
+56,02/27/2017 06:48,96.0,John Legend,Love Me Now,1349.0
+57,02/27/2017 08:08,38.0,Ryan Gosling & Emma Stone,City of Stars,2823.0
+58,02/27/2017 08:08,67.0,Emma Stone,Audition (The Fools Who Dream),1823.0
+59,02/27/2017 08:08,92.0,John Legend,Love Me Now,1318.0
+60,02/27/2017 08:38,38.0,Ryan Gosling & Emma Stone,City of Stars,3350.0
+61,02/27/2017 08:38,67.0,Emma Stone,Audition (The Fools Who Dream),2163.0
+62,02/27/2017 08:38,92.0,John Legend,Love Me Now,1564.0
+63,02/27/2017 09:08,38.0,Ryan Gosling & Emma Stone,City of Stars,3345.0
+64,02/27/2017 09:08,67.0,Emma Stone,Audition (The Fools Who Dream),2160.0
+65,02/27/2017 09:08,92.0,John Legend,Love Me Now,1562.0
+66,02/27/2017 09:38,37.0,Ryan Gosling & Emma Stone,City of Stars,3013.0
+67,02/27/2017 09:38,59.0,Emma Stone,Audition (The Fools Who Dream),1976.0
+68,02/27/2017 09:38,94.0,John Legend,Love Me Now,1298.0
+69,02/27/2017 10:08,37.0,Ryan Gosling & Emma Stone,City of Stars,2976.0
+70,02/27/2017 10:08,59.0,Emma Stone,Audition (The Fools Who Dream),1952.0
+71,02/27/2017 10:08,94.0,John Legend,Love Me Now,1282.0
+72,02/27/2017 10:38,37.0,Ryan Gosling & Emma Stone,City of Stars,3005.0
+73,02/27/2017 10:38,59.0,Emma Stone,Audition (The Fools Who Dream),1971.0
+74,02/27/2017 10:38,94.0,John Legend,Love Me Now,1294.0
+75,02/27/2017 11:08,37.0,Ryan Gosling & Emma Stone,City of Stars,3001.0
+76,02/27/2017 11:08,59.0,Emma Stone,Audition (The Fools Who Dream),1968.0
+77,02/27/2017 11:08,94.0,John Legend,Love Me Now,1293.0
+78,02/27/2017 11:38,37.0,Ryan Gosling & Emma Stone,City of Stars,2997.0
+79,02/27/2017 11:38,59.0,Emma Stone,Audition (The Fools Who Dream),1965.0
+80,02/27/2017 11:38,94.0,John Legend,Love Me Now,1291.0
+81,02/27/2017 12:08,36.0,Ryan Gosling & Emma Stone,City of Stars,3029.0
+82,02/27/2017 12:08,58.0,Emma Stone,Audition (The Fools Who Dream),1971.0
+83,02/27/2017 12:08,100.0,John Legend,Love Me Now,1252.0
+84,02/27/2017 12:38,36.0,Ryan Gosling & Emma Stone,City of Stars,3075.0
+85,02/27/2017 12:38,58.0,Emma Stone,Audition (The Fools Who Dream),2001.0
+86,02/27/2017 13:08,36.0,Ryan Gosling & Emma Stone,City of Stars,3071.0
+87,02/27/2017 13:08,58.0,Emma Stone,Audition (The Fools Who Dream),1999.0
+88,02/27/2017 13:38,36.0,Ryan Gosling & Emma Stone,City of Stars,3055.0
+89,02/27/2017 13:38,61.0,Emma Stone,Audition (The Fools Who Dream),1985.0
+90,02/27/2017 14:09,36.0,Ryan Gosling & Emma Stone,City of Stars,3057.0
+91,02/27/2017 14:09,60.0,Emma Stone,Audition (The Fools Who Dream),1987.0
+92,02/27/2017 14:09,100.0,John Legend,Love Me Now,1246.0
+93,02/27/2017 14:39,36.0,Ryan Gosling & Emma Stone,City of Stars,3053.0
+94,02/27/2017 14:39,60.0,Emma Stone,Audition (The Fools Who Dream),1984.0
+95,02/27/2017 14:39,100.0,John Legend,Love Me Now,1245.0
+96,02/27/2017 15:09,36.0,Ryan Gosling & Emma Stone,City of Stars,3061.0
+97,02/27/2017 15:09,60.0,Emma Stone,Audition (The Fools Who Dream),1990.0
+98,02/27/2017 15:39,36.0,Ryan Gosling & Emma Stone,City of Stars,3058.0
+99,02/27/2017 15:39,60.0,Emma Stone,Audition (The Fools Who Dream),1987.0
+100,02/27/2017 16:09,36.0,Ryan Gosling & Emma Stone,City of Stars,3055.0
+101,02/27/2017 16:09,60.0,Emma Stone,Audition (The Fools Who Dream),1985.0
+102,02/27/2017 16:39,37.0,Ryan Gosling & Emma Stone,City of Stars,3053.0
+103,02/27/2017 16:39,58.0,Emma Stone,Audition (The Fools Who Dream),1975.0
+104,02/27/2017 17:09,37.0,Ryan Gosling & Emma Stone,City of Stars,3061.0
+105,02/27/2017 17:09,58.0,Emma Stone,Audition (The Fools Who Dream),1981.0
+106,02/27/2017 17:39,37.0,Ryan Gosling & Emma Stone,City of Stars,3058.0
+107,02/27/2017 17:39,58.0,Emma Stone,Audition (The Fools Who Dream),1979.0
+108,02/27/2017 18:09,37.0,Ryan Gosling & Emma Stone,City of Stars,3044.0
+109,02/27/2017 18:09,58.0,Emma Stone,Audition (The Fools Who Dream),1970.0
+110,02/27/2017 18:39,38.0,Ryan Gosling & Emma Stone,City of Stars,3082.0
+111,02/27/2017 18:39,59.0,Emma Stone,Audition (The Fools Who Dream),1939.0
+112,02/27/2017 19:09,38.0,Ryan Gosling & Emma Stone,City of Stars,3079.0
+113,02/27/2017 19:09,59.0,Emma Stone,Audition (The Fools Who Dream),1937.0
+114,02/27/2017 19:39,38.0,Ryan Gosling & Emma Stone,City of Stars,3077.0
+115,02/27/2017 19:39,59.0,Emma Stone,Audition (The Fools Who Dream),1936.0
+116,02/27/2017 20:46,38.0,Ryan Gosling & Emma Stone,City of Stars,3071.0
+117,02/27/2017 20:46,59.0,Emma Stone,Audition (The Fools Who Dream),1932.0
+118,02/27/2017 21:16,36.0,Ryan Gosling & Emma Stone,City of Stars,3115.0
+119,02/27/2017 21:16,60.0,Emma Stone,Audition (The Fools Who Dream),1926.0
+120,02/27/2017 21:46,36.0,Ryan Gosling & Emma Stone,City of Stars,3154.0
+121,02/27/2017 21:46,60.0,Emma Stone,Audition (The Fools Who Dream),1950.0
+122,02/27/2017 22:16,36.0,Ryan Gosling & Emma Stone,City of Stars,3151.0
+123,02/27/2017 22:16,60.0,Emma Stone,Audition (The Fools Who Dream),1949.0
+124,02/27/2017 22:46,36.0,Ryan Gosling & Emma Stone,City of Stars,3155.0
+125,02/27/2017 22:46,60.0,Emma Stone,Audition (The Fools Who Dream),1951.0
+126,02/27/2017 23:16,36.0,Ryan Gosling & Emma Stone,City of Stars,3158.0
+127,02/27/2017 23:16,60.0,Emma Stone,Audition (The Fools Who Dream),1943.0
+128,02/27/2017 23:46,36.0,Ryan Gosling & Emma Stone,City of Stars,3156.0
+129,02/27/2017 23:46,60.0,Emma Stone,Audition (The Fools Who Dream),1942.0
+130,02/28/2017 00:16,36.0,Ryan Gosling & Emma Stone,City of Stars,3154.0
+131,02/28/2017 00:16,60.0,Emma Stone,Audition (The Fools Who Dream),1941.0
+132,02/28/2017 00:46,36.0,Ryan Gosling & Emma Stone,City of Stars,3152.0
+133,02/28/2017 00:46,60.0,Emma Stone,Audition (The Fools Who Dream),1940.0
+134,02/28/2017 01:17,36.0,Ryan Gosling & Emma Stone,City of Stars,3151.0
+135,02/28/2017 01:17,60.0,Emma Stone,Audition (The Fools Who Dream),1939.0
+136,02/28/2017 01:47,36.0,Ryan Gosling & Emma Stone,City of Stars,3149.0
+137,02/28/2017 01:47,60.0,Emma Stone,Audition (The Fools Who Dream),1937.0
+138,02/28/2017 02:17,35.0,Ryan Gosling & Emma Stone,City of Stars,3203.0
+139,02/28/2017 02:17,60.0,Emma Stone,Audition (The Fools Who Dream),1969.0
+140,02/28/2017 02:17,100.0,John Legend,Love Me Now,1222.0
+141,02/28/2017 02:47,35.0,Ryan Gosling & Emma Stone,City of Stars,3201.0
+142,02/28/2017 02:47,60.0,Emma Stone,Audition (The Fools Who Dream),1968.0
+143,02/28/2017 02:47,100.0,John Legend,Love Me Now,1221.0
+144,02/28/2017 03:17,35.0,Ryan Gosling & Emma Stone,City of Stars,3199.0
+145,02/28/2017 03:17,60.0,Emma Stone,Audition (The Fools Who Dream),1967.0
+146,02/28/2017 03:17,100.0,John Legend,Love Me Now,1221.0
+147,02/28/2017 03:47,35.0,Ryan Gosling & Emma Stone,City of Stars,3198.0
+148,02/28/2017 03:47,60.0,Emma Stone,Audition (The Fools Who Dream),1966.0
+149,02/28/2017 03:47,100.0,John Legend,Love Me Now,1220.0
+150,02/28/2017 04:17,35.0,Ryan Gosling & Emma Stone,City of Stars,3180.0
+151,02/28/2017 04:17,61.0,Emma Stone,Audition (The Fools Who Dream),1918.0
+152,02/28/2017 04:17,100.0,John Legend,Love Me Now,1220.0
+153,02/28/2017 04:47,35.0,Ryan Gosling & Emma Stone,City of Stars,3179.0
+154,02/28/2017 04:47,61.0,Emma Stone,Audition (The Fools Who Dream),1917.0
+155,02/28/2017 04:47,100.0,John Legend,Love Me Now,1219.0
+156,02/28/2017 05:17,35.0,Ryan Gosling & Emma Stone,City of Stars,3177.0
+157,02/28/2017 05:17,61.0,Emma Stone,Audition (The Fools Who Dream),1917.0
+158,02/28/2017 05:17,100.0,John Legend,Love Me Now,1218.0
+159,02/28/2017 05:47,35.0,Ryan Gosling & Emma Stone,City of Stars,3188.0
+160,02/28/2017 05:47,61.0,Emma Stone,Audition (The Fools Who Dream),1923.0
+161,02/28/2017 06:17,35.0,Ryan Gosling & Emma Stone,City of Stars,3187.0
+162,02/28/2017 06:17,61.0,Emma Stone,Audition (The Fools Who Dream),1922.0
+163,02/28/2017 06:47,39.0,Ryan Gosling & Emma Stone,City of Stars,2991.0
+164,02/28/2017 06:47,66.0,Emma Stone,Audition (The Fools Who Dream),1803.0
+165,02/28/2017 07:17,39.0,Ryan Gosling & Emma Stone,City of Stars,2990.0
+166,02/28/2017 07:17,66.0,Emma Stone,Audition (The Fools Who Dream),1803.0
+167,02/28/2017 07:47,39.0,Ryan Gosling & Emma Stone,City of Stars,3043.0
+168,02/28/2017 07:47,66.0,Emma Stone,Audition (The Fools Who Dream),1835.0
+169,02/28/2017 08:17,39.0,Ryan Gosling & Emma Stone,City of Stars,2987.0
+170,02/28/2017 08:17,66.0,Emma Stone,Audition (The Fools Who Dream),1801.0
+171,02/28/2017 08:47,39.0,Ryan Gosling & Emma Stone,City of Stars,2986.0
+172,02/28/2017 08:47,66.0,Emma Stone,Audition (The Fools Who Dream),1800.0
+173,02/28/2017 09:17,38.0,Ryan Gosling & Emma Stone,City of Stars,2933.0
+174,02/28/2017 09:17,68.0,Emma Stone,Audition (The Fools Who Dream),1752.0
+175,02/28/2017 10:43,38.0,Ryan Gosling & Emma Stone,City of Stars,2930.0
+176,02/28/2017 10:43,68.0,Emma Stone,Audition (The Fools Who Dream),1750.0
+177,02/28/2017 11:13,38.0,Ryan Gosling & Emma Stone,City of Stars,2929.0
+178,02/28/2017 11:13,68.0,Emma Stone,Audition (The Fools Who Dream),1750.0
+179,02/28/2017 11:43,39.0,Ryan Gosling & Emma Stone,City of Stars,2860.0
+180,02/28/2017 11:43,70.0,Emma Stone,Audition (The Fools Who Dream),1718.0
+181,02/28/2017 12:13,39.0,Ryan Gosling & Emma Stone,City of Stars,2859.0
+182,02/28/2017 12:13,70.0,Emma Stone,Audition (The Fools Who Dream),1717.0
+183,02/28/2017 12:43,39.0,Ryan Gosling & Emma Stone,City of Stars,3007.0
+184,02/28/2017 12:43,70.0,Emma Stone,Audition (The Fools Who Dream),1807.0
+185,02/28/2017 13:13,39.0,Ryan Gosling & Emma Stone,City of Stars,3006.0
+186,02/28/2017 13:13,70.0,Emma Stone,Audition (The Fools Who Dream),1806.0
+187,02/28/2017 13:43,40.0,Ryan Gosling & Emma Stone,City of Stars,2774.0
+188,02/28/2017 13:43,70.0,Emma Stone,Audition (The Fools Who Dream),1668.0
+189,02/28/2017 14:13,40.0,Ryan Gosling & Emma Stone,City of Stars,2774.0
+190,02/28/2017 14:13,70.0,Emma Stone,Audition (The Fools Who Dream),1667.0
+191,02/28/2017 14:43,40.0,Ryan Gosling & Emma Stone,City of Stars,2773.0
+192,02/28/2017 14:43,70.0,Emma Stone,Audition (The Fools Who Dream),1667.0
+193,02/28/2017 15:13,40.0,Ryan Gosling & Emma Stone,City of Stars,2796.0
+194,02/28/2017 15:13,70.0,Emma Stone,Audition (The Fools Who Dream),1681.0
+195,02/28/2017 15:43,40.0,Ryan Gosling & Emma Stone,City of Stars,2796.0
+196,02/28/2017 15:43,70.0,Emma Stone,Audition (The Fools Who Dream),1681.0
+197,02/28/2017 16:13,41.0,Ryan Gosling & Emma Stone,City of Stars,2644.0
+198,02/28/2017 16:13,72.0,Emma Stone,Audition (The Fools Who Dream),1609.0
+199,02/28/2017 16:43,41.0,Ryan Gosling & Emma Stone,City of Stars,2643.0
+200,02/28/2017 16:43,72.0,Emma Stone,Audition (The Fools Who Dream),1609.0
+201,02/28/2017 17:13,41.0,Ryan Gosling & Emma Stone,City of Stars,2643.0
+202,02/28/2017 17:13,72.0,Emma Stone,Audition (The Fools Who Dream),1609.0
+203,02/28/2017 17:43,41.0,Ryan Gosling & Emma Stone,City of Stars,2671.0
+204,02/28/2017 17:43,72.0,Emma Stone,Audition (The Fools Who Dream),1626.0
+205,02/28/2017 18:13,41.0,Ryan Gosling & Emma Stone,City of Stars,2519.0
+206,02/28/2017 18:13,73.0,Emma Stone,Audition (The Fools Who Dream),1537.0
+207,02/28/2017 18:44,41.0,Ryan Gosling & Emma Stone,City of Stars,2519.0
+208,02/28/2017 18:44,73.0,Emma Stone,Audition (The Fools Who Dream),1537.0
+209,02/28/2017 19:14,41.0,Ryan Gosling & Emma Stone,City of Stars,2518.0
+210,02/28/2017 19:14,73.0,Emma Stone,Audition (The Fools Who Dream),1536.0
+211,02/28/2017 20:55,45.0,Ryan Gosling & Emma Stone,City of Stars,2433.0
+212,02/28/2017 20:55,77.0,Emma Stone,Audition (The Fools Who Dream),1475.0
+213,02/28/2017 21:25,44.0,Ryan Gosling & Emma Stone,City of Stars,2432.0
+214,02/28/2017 21:25,77.0,Emma Stone,Audition (The Fools Who Dream),1475.0
+215,02/28/2017 21:55,45.0,Ryan Gosling & Emma Stone,City of Stars,2480.0
+216,02/28/2017 21:55,77.0,Emma Stone,Audition (The Fools Who Dream),1504.0
+217,02/28/2017 22:25,45.0,Ryan Gosling & Emma Stone,City of Stars,2480.0
+218,02/28/2017 22:25,77.0,Emma Stone,Audition (The Fools Who Dream),1504.0
+219,02/28/2017 22:55,45.0,Ryan Gosling & Emma Stone,City of Stars,2479.0
+220,02/28/2017 22:55,77.0,Emma Stone,Audition (The Fools Who Dream),1503.0
+221,02/28/2017 23:25,44.0,Ryan Gosling & Emma Stone,City of Stars,2426.0
+222,02/28/2017 23:25,76.0,Emma Stone,Audition (The Fools Who Dream),1473.0
+223,02/28/2017 23:55,44.0,Ryan Gosling & Emma Stone,City of Stars,2425.0
+224,02/28/2017 23:55,76.0,Emma Stone,Audition (The Fools Who Dream),1473.0
+225,03/01/2017 00:26,44.0,Ryan Gosling & Emma Stone,City of Stars,2425.0
+226,03/01/2017 00:26,76.0,Emma Stone,Audition (The Fools Who Dream),1472.0
+227,03/01/2017 00:56,44.0,Ryan Gosling & Emma Stone,City of Stars,2424.0
+228,03/01/2017 00:56,76.0,Emma Stone,Audition (The Fools Who Dream),1472.0
+229,03/01/2017 01:26,44.0,Ryan Gosling & Emma Stone,City of Stars,2424.0
+230,03/01/2017 01:26,76.0,Emma Stone,Audition (The Fools Who Dream),1472.0
+231,03/01/2017 01:56,44.0,Ryan Gosling & Emma Stone,City of Stars,2424.0
+232,03/01/2017 01:56,76.0,Emma Stone,Audition (The Fools Who Dream),1472.0
+233,03/01/2017 02:26,44.0,Ryan Gosling & Emma Stone,City of Stars,2424.0
+234,03/01/2017 02:26,76.0,Emma Stone,Audition (The Fools Who Dream),1472.0
+235,03/01/2017 02:56,44.0,Ryan Gosling & Emma Stone,City of Stars,2503.0
+236,03/01/2017 02:56,76.0,Emma Stone,Audition (The Fools Who Dream),1514.0
+237,03/01/2017 03:26,44.0,Ryan Gosling & Emma Stone,City of Stars,2423.0
+238,03/01/2017 03:26,76.0,Emma Stone,Audition (The Fools Who Dream),1471.0
+239,03/01/2017 03:56,44.0,Ryan Gosling & Emma Stone,City of Stars,2503.0
+240,03/01/2017 03:56,76.0,Emma Stone,Audition (The Fools Who Dream),1513.0
+241,03/01/2017 04:26,44.0,Ryan Gosling & Emma Stone,City of Stars,2503.0
+242,03/01/2017 04:26,76.0,Emma Stone,Audition (The Fools Who Dream),1513.0
+243,03/01/2017 04:56,44.0,Ryan Gosling & Emma Stone,City of Stars,2502.0
+244,03/01/2017 04:56,76.0,Emma Stone,Audition (The Fools Who Dream),1513.0
+245,03/01/2017 05:26,45.0,Ryan Gosling & Emma Stone,City of Stars,2381.0
+246,03/01/2017 05:26,77.0,Emma Stone,Audition (The Fools Who Dream),1442.0
+247,03/01/2017 05:56,45.0,Ryan Gosling & Emma Stone,City of Stars,2380.0
+248,03/01/2017 05:56,77.0,Emma Stone,Audition (The Fools Who Dream),1442.0
+249,03/01/2017 06:26,45.0,Ryan Gosling & Emma Stone,City of Stars,2380.0
+250,03/01/2017 06:26,77.0,Emma Stone,Audition (The Fools Who Dream),1441.0
+251,03/01/2017 06:56,47.0,Ryan Gosling & Emma Stone,City of Stars,2261.0
+252,03/01/2017 06:56,81.0,Emma Stone,Audition (The Fools Who Dream),1377.0
+253,03/01/2017 07:26,47.0,Ryan Gosling & Emma Stone,City of Stars,2261.0
+254,03/01/2017 07:26,81.0,Emma Stone,Audition (The Fools Who Dream),1377.0
+255,03/01/2017 07:56,47.0,Ryan Gosling & Emma Stone,City of Stars,2296.0
+256,03/01/2017 07:56,81.0,Emma Stone,Audition (The Fools Who Dream),1398.0
+257,03/01/2017 08:26,47.0,Ryan Gosling & Emma Stone,City of Stars,2291.0
+258,03/01/2017 08:26,81.0,Emma Stone,Audition (The Fools Who Dream),1395.0
+259,03/01/2017 08:56,49.0,Ryan Gosling & Emma Stone,City of Stars,2116.0
+260,03/01/2017 08:56,88.0,Emma Stone,Audition (The Fools Who Dream),1304.0
+261,03/01/2017 09:26,49.0,Ryan Gosling & Emma Stone,City of Stars,2116.0
+262,03/01/2017 09:26,88.0,Emma Stone,Audition (The Fools Who Dream),1305.0
+263,03/01/2017 10:30,49.0,Ryan Gosling & Emma Stone,City of Stars,2464.0
+264,03/01/2017 10:30,88.0,Emma Stone,Audition (The Fools Who Dream),1519.0
+265,03/01/2017 11:00,49.0,Ryan Gosling & Emma Stone,City of Stars,2464.0
+266,03/01/2017 11:00,88.0,Emma Stone,Audition (The Fools Who Dream),1519.0
+267,03/01/2017 11:30,53.0,Ryan Gosling & Emma Stone,City of Stars,2097.0
+268,03/01/2017 11:30,91.0,Emma Stone,Audition (The Fools Who Dream),1271.0
+269,03/01/2017 12:00,53.0,Ryan Gosling & Emma Stone,City of Stars,2097.0
+270,03/01/2017 12:00,91.0,Emma Stone,Audition (The Fools Who Dream),1271.0
+271,03/01/2017 12:30,53.0,Ryan Gosling & Emma Stone,City of Stars,2097.0
+272,03/01/2017 12:30,91.0,Emma Stone,Audition (The Fools Who Dream),1271.0
+273,03/01/2017 13:00,53.0,Ryan Gosling & Emma Stone,City of Stars,2097.0
+274,03/01/2017 13:00,91.0,Emma Stone,Audition (The Fools Who Dream),1271.0
+275,03/01/2017 13:30,53.0,Ryan Gosling & Emma Stone,City of Stars,2112.0
+276,03/01/2017 14:00,55.0,Ryan Gosling & Emma Stone,City of Stars,2028.0
+277,03/01/2017 14:31,55.0,Ryan Gosling & Emma Stone,City of Stars,2029.0
+278,03/01/2017 15:01,55.0,Ryan Gosling & Emma Stone,City of Stars,2029.0
+279,03/01/2017 16:23,59.0,Ryan Gosling & Emma Stone,City of Stars,1948.0
+280,03/01/2017 16:53,59.0,Ryan Gosling & Emma Stone,City of Stars,1949.0
+281,03/01/2017 17:23,59.0,Ryan Gosling & Emma Stone,City of Stars,1949.0
+282,03/01/2017 17:53,59.0,Ryan Gosling & Emma Stone,City of Stars,1949.0
+283,03/01/2017 18:23,63.0,Ryan Gosling & Emma Stone,City of Stars,1887.0
+284,03/01/2017 18:53,63.0,Ryan Gosling & Emma Stone,City of Stars,1887.0
+285,03/01/2017 19:23,63.0,Ryan Gosling & Emma Stone,City of Stars,1887.0
+286,03/01/2017 19:53,63.0,Ryan Gosling & Emma Stone,City of Stars,1888.0
+287,03/01/2017 20:23,63.0,Ryan Gosling & Emma Stone,City of Stars,1888.0
+288,03/01/2017 20:53,64.0,Ryan Gosling & Emma Stone,City of Stars,1848.0
+289,03/02/2017 00:20,64.0,Ryan Gosling & Emma Stone,City of Stars,1879.0
+290,03/02/2017 00:50,64.0,Ryan Gosling & Emma Stone,City of Stars,1879.0
+291,03/02/2017 01:20,64.0,Ryan Gosling & Emma Stone,City of Stars,1880.0
+292,03/02/2017 01:50,64.0,Ryan Gosling & Emma Stone,City of Stars,1880.0
+293,03/02/2017 02:20,64.0,Ryan Gosling & Emma Stone,City of Stars,1881.0
+294,03/02/2017 02:50,63.0,Ryan Gosling & Emma Stone,City of Stars,1847.0
+295,03/02/2017 03:21,63.0,Ryan Gosling & Emma Stone,City of Stars,1876.0
+296,03/02/2017 03:51,63.0,Ryan Gosling & Emma Stone,City of Stars,1876.0
+297,03/02/2017 04:21,63.0,Ryan Gosling & Emma Stone,City of Stars,1877.0
+298,03/02/2017 04:51,65.0,Ryan Gosling & Emma Stone,City of Stars,1834.0
+299,03/02/2017 05:21,65.0,Ryan Gosling & Emma Stone,City of Stars,1834.0
+300,03/02/2017 05:51,65.0,Ryan Gosling & Emma Stone,City of Stars,1835.0
+301,03/02/2017 06:21,65.0,Ryan Gosling & Emma Stone,City of Stars,1836.0
+302,03/02/2017 06:51,65.0,Ryan Gosling & Emma Stone,City of Stars,1836.0
+303,03/02/2017 07:21,65.0,Ryan Gosling & Emma Stone,City of Stars,1837.0
+304,03/02/2017 07:51,65.0,Ryan Gosling & Emma Stone,City of Stars,1837.0
+305,03/02/2017 08:21,67.0,Ryan Gosling & Emma Stone,City of Stars,1774.0
+306,03/02/2017 08:51,67.0,Ryan Gosling & Emma Stone,City of Stars,1775.0
+307,03/02/2017 09:21,74.0,Ryan Gosling & Emma Stone,City of Stars,1690.0
+308,03/02/2017 09:51,74.0,Ryan Gosling & Emma Stone,City of Stars,1690.0
+309,03/02/2017 11:48,75.0,Ryan Gosling & Emma Stone,City of Stars,1609.0
+310,03/02/2017 12:18,75.0,Ryan Gosling & Emma Stone,City of Stars,1610.0
+311,03/02/2017 12:48,75.0,Ryan Gosling & Emma Stone,City of Stars,1604.0
+312,03/02/2017 13:18,75.0,Ryan Gosling & Emma Stone,City of Stars,1611.0
+313,03/02/2017 13:48,77.0,Ryan Gosling & Emma Stone,City of Stars,1549.0
+314,03/02/2017 15:20,77.0,Ryan Gosling & Emma Stone,City of Stars,1551.0
+315,03/02/2017 15:50,77.0,Ryan Gosling & Emma Stone,City of Stars,1579.0
+316,03/02/2017 16:20,79.0,Ryan Gosling & Emma Stone,City of Stars,1494.0
+317,03/02/2017 16:50,79.0,Ryan Gosling & Emma Stone,City of Stars,1495.0
+318,03/02/2017 17:20,79.0,Ryan Gosling & Emma Stone,City of Stars,1496.0
+319,03/02/2017 17:50,79.0,Ryan Gosling & Emma Stone,City of Stars,1497.0
+320,03/02/2017 19:31,82.0,Ryan Gosling & Emma Stone,City of Stars,1463.0
+321,03/02/2017 20:01,82.0,Ryan Gosling & Emma Stone,City of Stars,1479.0
+322,03/02/2017 20:31,82.0,Ryan Gosling & Emma Stone,City of Stars,1480.0
+323,03/02/2017 21:01,82.0,Ryan Gosling & Emma Stone,City of Stars,1466.0
+324,03/02/2017 21:31,84.0,Ryan Gosling & Emma Stone,City of Stars,1444.0
+325,03/02/2017 22:01,84.0,Ryan Gosling & Emma Stone,City of Stars,1446.0
+326,03/02/2017 22:31,84.0,Ryan Gosling & Emma Stone,City of Stars,1462.0
+327,03/02/2017 23:01,84.0,Ryan Gosling & Emma Stone,City of Stars,1487.0
+328,03/02/2017 23:31,81.0,Ryan Gosling & Emma Stone,City of Stars,1458.0
+329,03/03/2017 00:01,81.0,Ryan Gosling & Emma Stone,City of Stars,1468.0
+330,03/03/2017 00:31,81.0,Ryan Gosling & Emma Stone,City of Stars,1470.0
+331,03/03/2017 01:01,81.0,Ryan Gosling & Emma Stone,City of Stars,1471.0
+332,03/03/2017 01:32,81.0,Ryan Gosling & Emma Stone,City of Stars,1473.0
+333,03/03/2017 02:02,81.0,Ryan Gosling & Emma Stone,City of Stars,1474.0
+334,03/03/2017 02:32,81.0,Ryan Gosling & Emma Stone,City of Stars,1545.0
+335,03/03/2017 03:02,81.0,Ryan Gosling & Emma Stone,City of Stars,1546.0
+336,03/03/2017 03:32,81.0,Ryan Gosling & Emma Stone,City of Stars,1548.0
+337,03/03/2017 04:02,81.0,Ryan Gosling & Emma Stone,City of Stars,1550.0
+338,03/03/2017 04:32,81.0,Ryan Gosling & Emma Stone,City of Stars,2849.0
+339,03/03/2017 05:02,85.0,Ryan Gosling & Emma Stone,City of Stars,1998.0
+340,03/03/2017 05:32,85.0,Ryan Gosling & Emma Stone,City of Stars,2000.0
+341,03/03/2017 06:02,85.0,Ryan Gosling & Emma Stone,City of Stars,2363.0
+342,03/03/2017 06:32,85.0,Ryan Gosling & Emma Stone,City of Stars,2366.0
+343,03/03/2017 07:02,95.0,Ryan Gosling & Emma Stone,City of Stars,1326.0
+344,03/27/2017 21:24,100.0,John Legend,Love Me Now,1231.0
+345,03/27/2017 21:54,100.0,John Legend,Love Me Now,1230.0
+346,03/27/2017 22:24,100.0,John Legend,Love Me Now,1229.0
+347,03/27/2017 22:54,92.0,John Legend,Love Me Now,1292.0
+348,03/27/2017 23:24,92.0,John Legend,Love Me Now,1291.0
+349,03/27/2017 23:54,92.0,John Legend,Love Me Now,1311.0
+350,03/28/2017 00:24,92.0,John Legend,Love Me Now,1310.0
+351,03/28/2017 00:54,92.0,John Legend,Love Me Now,1309.0
+352,03/28/2017 01:24,92.0,John Legend,Love Me Now,1308.0
+353,03/28/2017 01:54,92.0,John Legend,Love Me Now,1307.0
+354,03/28/2017 02:24,89.0,John Legend,Love Me Now,1336.0
+355,03/28/2017 02:54,89.0,John Legend,Love Me Now,1336.0
+356,03/28/2017 03:25,89.0,John Legend,Love Me Now,1335.0
+357,03/28/2017 03:55,89.0,John Legend,Love Me Now,1334.0
+358,03/28/2017 04:25,91.0,John Legend,Love Me Now,1315.0
+359,03/28/2017 04:55,91.0,John Legend,Love Me Now,1314.0
+360,03/28/2017 05:25,91.0,John Legend,Love Me Now,1328.0
+361,03/28/2017 05:55,91.0,John Legend,Love Me Now,1327.0
+362,03/28/2017 06:25,89.0,John Legend,Love Me Now,1344.0
+363,03/28/2017 06:55,91.0,John Legend,Love Me Now,1326.0
+364,03/28/2017 07:25,89.0,John Legend,Love Me Now,1380.0
+365,03/28/2017 07:55,89.0,John Legend,Love Me Now,1379.0
+366,03/28/2017 08:25,89.0,John Legend,Love Me Now,1379.0
+367,03/28/2017 08:55,89.0,John Legend,Love Me Now,1378.0
+368,03/28/2017 09:25,88.0,John Legend,Love Me Now,1390.0
+369,03/28/2017 09:55,88.0,John Legend,Love Me Now,1409.0
+370,03/28/2017 10:29,88.0,John Legend,Love Me Now,1414.0
+371,03/28/2017 10:59,88.0,John Legend,Love Me Now,1408.0
+372,03/28/2017 11:29,89.0,John Legend,Love Me Now,1409.0
+373,03/28/2017 11:59,89.0,John Legend,Love Me Now,1397.0
+374,03/28/2017 12:29,89.0,John Legend,Love Me Now,1409.0
+375,03/28/2017 12:59,89.0,John Legend,Love Me Now,1408.0
+376,03/28/2017 13:29,81.0,John Legend,Love Me Now,1470.0
+377,03/28/2017 13:59,82.0,John Legend,Love Me Now,1476.0
+378,03/28/2017 14:29,82.0,John Legend,Love Me Now,1475.0
+379,03/28/2017 14:59,81.0,John Legend,Love Me Now,1475.0
+380,03/28/2017 15:29,81.0,John Legend,Love Me Now,1474.0
+381,03/28/2017 16:00,74.0,John Legend,Love Me Now,1540.0
+382,03/28/2017 16:30,74.0,John Legend,Love Me Now,1547.0
+383,03/28/2017 17:00,74.0,John Legend,Love Me Now,1547.0
+384,03/28/2017 17:30,74.0,John Legend,Love Me Now,1546.0
+385,03/28/2017 18:00,74.0,John Legend,Love Me Now,1546.0
+386,03/28/2017 18:30,74.0,John Legend,Love Me Now,1546.0
+387,03/28/2017 19:00,69.0,John Legend,Love Me Now,1621.0
+388,03/28/2017 19:30,69.0,John Legend,Love Me Now,1639.0
+389,03/28/2017 20:00,69.0,John Legend,Love Me Now,1639.0
+390,03/28/2017 20:30,67.0,John Legend,Love Me Now,1743.0
+391,03/28/2017 21:00,67.0,John Legend,Love Me Now,1743.0
+392,03/28/2017 21:30,67.0,John Legend,Love Me Now,1749.0
+393,03/29/2017 03:24,66.0,John Legend,Love Me Now,1724.0
+394,03/29/2017 03:54,66.0,John Legend,Love Me Now,1723.0
+395,03/29/2017 04:24,66.0,John Legend,Love Me Now,1712.0
+396,03/29/2017 04:54,66.0,John Legend,Love Me Now,1712.0
+397,03/29/2017 05:24,66.0,John Legend,Love Me Now,1780.0
+398,03/29/2017 05:54,66.0,John Legend,Love Me Now,1780.0
+399,03/29/2017 06:24,66.0,John Legend,Love Me Now,1780.0
+400,03/29/2017 06:54,68.0,John Legend,Love Me Now,1702.0
+401,03/29/2017 07:25,68.0,John Legend,Love Me Now,1637.0
+402,03/29/2017 07:55,68.0,John Legend,Love Me Now,1701.0
+403,03/29/2017 08:25,68.0,John Legend,Love Me Now,1701.0
+404,03/29/2017 08:55,71.0,John Legend,Love Me Now,1625.0
+405,03/29/2017 10:30,71.0,John Legend,Love Me Now,1661.0
+406,03/29/2017 11:00,73.0,John Legend,Love Me Now,1535.0
+407,03/29/2017 11:30,73.0,John Legend,Love Me Now,1535.0
+408,03/29/2017 12:00,73.0,John Legend,Love Me Now,1535.0
+409,03/29/2017 12:30,73.0,John Legend,Love Me Now,1535.0
+410,03/29/2017 13:00,73.0,John Legend,Love Me Now,1535.0
+411,03/29/2017 13:30,73.0,John Legend,Love Me Now,1535.0
+412,03/29/2017 14:00,76.0,John Legend,Love Me Now,1500.0
+413,03/29/2017 14:30,76.0,John Legend,Love Me Now,1500.0
+414,03/29/2017 15:00,76.0,John Legend,Love Me Now,1518.0
+415,03/29/2017 15:30,76.0,John Legend,Love Me Now,1532.0
+416,03/29/2017 16:00,76.0,John Legend,Love Me Now,1532.0
+417,03/29/2017 21:16,83.0,John Legend,Love Me Now,1381.0
+418,03/29/2017 21:46,83.0,John Legend,Love Me Now,1388.0
+419,03/29/2017 22:16,83.0,John Legend,Love Me Now,1389.0
+420,03/29/2017 22:46,83.0,John Legend,Love Me Now,1389.0
+421,03/29/2017 23:16,83.0,John Legend,Love Me Now,1367.0
+422,03/29/2017 23:47,83.0,John Legend,Love Me Now,1367.0
+423,03/30/2017 00:17,84.0,John Legend,Love Me Now,1369.0
+424,03/30/2017 00:47,84.0,John Legend,Love Me Now,1370.0
+425,03/30/2017 01:17,84.0,John Legend,Love Me Now,1355.0
+426,03/30/2017 01:47,84.0,John Legend,Love Me Now,1370.0
+427,03/30/2017 02:17,84.0,John Legend,Love Me Now,1355.0
+428,03/30/2017 02:47,84.0,John Legend,Love Me Now,1377.0
+429,03/30/2017 03:17,84.0,John Legend,Love Me Now,1377.0
+430,03/30/2017 03:47,86.0,John Legend,Love Me Now,1327.0
+431,03/30/2017 04:17,86.0,John Legend,Love Me Now,1327.0
+432,03/30/2017 04:47,86.0,John Legend,Love Me Now,1328.0
+433,03/30/2017 05:17,86.0,John Legend,Love Me Now,1352.0
+434,03/30/2017 05:47,86.0,John Legend,Love Me Now,1332.0
+435,03/30/2017 06:17,88.0,John Legend,Love Me Now,1332.0
+436,03/30/2017 06:47,86.0,John Legend,Love Me Now,1333.0
+437,03/30/2017 07:17,87.0,John Legend,Love Me Now,1333.0
+438,03/30/2017 07:47,87.0,John Legend,Love Me Now,1334.0
+439,03/30/2017 08:17,88.0,John Legend,Love Me Now,1334.0
+440,03/30/2017 08:47,95.0,John Legend,Love Me Now,1288.0
+441,03/30/2017 09:17,95.0,John Legend,Love Me Now,1289.0
+442,03/30/2017 10:57,97.0,John Legend,Love Me Now,1244.0
