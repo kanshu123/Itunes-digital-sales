@@ -11,5 +11,6 @@
 
 ### Jupyter notebook contains codes to visualize sales overtime.
 
-![Alt text](/sales_data_feb14.png "Optional Title")
+![Alt text](/US_sale_Apr_8.png "Optional Title")
 
+哈卷slay
